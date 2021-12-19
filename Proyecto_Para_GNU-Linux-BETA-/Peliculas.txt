@@ -1,0 +1,31 @@
+ID_Pelicula	Nombre_Pelicula	Actor_Actriz	Director	Pais_de_Origen	Fecha_de_Lanzamiento	Genero	Recaudacion	Empresa	Precio
+01	Pixel	Adam Sandler	Chris Columbus	Estados Unidos	2015-07-25	Fantasia, Comedia	243644467	Columbia Pictures	599.2
+02	4X4	Juan Pedro Lanzani	Mariano Cohn	Argentina	2019-04-04	Drama, Suspenso	1292773	Walt Disney Studios Motion Pictures	600.65
+03	Lluvia de hamburguesas	Flint Lockwood	Phil Lord, Christopher Miller	Estados Unidos	2009-10-01	Animacion, Comedia	243006126	Columbia Picture	355.98
+04	Lluvia de hamburguesas 2	Flint Lockwood	Cody Cameron, Kris Pearn	Estados Unidos	2013-11-07	Animacion, Comedia	274325949	Columbia Pictures	365.62
+05	Matrix	Keanu Reeves	Lana Wachowski, Lilly Wachowski	Estados Unidos	1999-06-10	Ciencia Ficcion, Accion	1632989142	Warner Bros. Pictures	244.65
+06	La vida secreta de tus mascotas	Max	Chris Renaud	Estados Unidos	2016-06-16	Animacion, Comedia	875457937	Universal Pictures	3554.2
+07	La vida secreta de tus mascotas 2	Max	Chris Renaud	Estados Unidos	2019-06-07	Animacion, Comedia	433125785	Universal Pictures	356.2
+08	La era de hielo 1	Manny	Chris Wedge	Estados Unidos	2002-06-29	Animacion, Comedia, Aventura	383257136	20th Century Fox	598.98
+09	La era de hielo 2	Manny	Carlos Saldanha	Estados Unidos	2006-03-29	Animacion, Comedia, Aventura	660388158	20th Century Fox	678.45
+10	La era de hielo 3	Manny	Carlos Saldanha	Estados Unidos	2009-06-01	Animacion, Comedia, Aventura	886686817	20th Century Fox	648.97
+11	La era de hielo 4	Manny	Mike Thurmeier, Steve Martino	Estados Unidos	2012-06-28	Animacion, Comedia, Aventura	877244782	20th Century Fox	568.58
+12	Diario de Greg	Jason Drucker	Thor Freudenthal	Estados Unidos	2010-03-18	Comedia	75700000	20th Century Fox	456.65
+13	Una noche en el museo	Ben Stiller	Shawn Levy	Estados Unidos	2006-12-17	Aventura, Comedia	574480841	20th Century Fox	978.8
+14	Una noche en el museo 2	Ben Stiller	Shawn Levy	Estados Unidos	2009-05-22	Aventura, Comedia	413106170	InterCom, Netflix, Disney+, FandangoNow	699.55
+15	Ralph el demoledor	Ralph	Rich Moore	Estados Unidos	2013-01-03	Animacion, Comedia	471222889	Walt Disney Studios Motion Pictures	658.45
+16	Los Croods	Croods	Chris Sanders, Kirk DeMicco	Estados Unidos	2013-03-21	Animacion, Comedia	587204000	DreamWorks Animation SKG Home Entertainment, 20th Century Fox Home Entertainment, Universal Studios	678.98
+17	Rapidos y Furiosos 1	Vin Diesel	Rob Cohen	Estados Unidos	2001-11-17	Accion, Aventura, Suspenso	207283925	Universal Pictures	365.65
+18	2 Rapidos 2 Furiosos	Paul Walker	John Singleton	Estados Unidos	2003-09-18	Accion, Aventura, Suspenso	236350661	Universal Pictures	563.36
+19	Rapidos y Furiosos 5	Vin Diesel	Justin Lin	Estados Unidos	2009-04-02	Accion, Aventura, Suspenso	626137675	Universal Pictures	456.25
+20	Rapidos y Furiosos 6	Paul Walker	Justin Lin	Estados Unidos	2013-05-23	Accion, Aventura, Suspenso	788679850	Universal Pictures	456.32
+21	Rapidos y Furiosos 7	Paul Walker	James Wan	Estados Unidos	2015-04-02	Accion, Aventura, Suspenso	1516045911	Universal Pictures	485.36
+22	Rapidos y Furiosos 8	Vin Diesel	F. Gary Gray	Estados Unidos	2017-04-13	Accion, Aventura, Suspenso	1236005118	Universal Pictures	475.65
+23	Mi primera boda	Daniel Hendler, Natalia Oreiro	Ariel Winograd	Argentina	2011-09-01	Comedia, Romance	67516	Buena Vista Internacional	578.98
+24	Up	Carl Fredricksen	Pete Docter	Estados Unidos	2009-06-11	Animacion	735099082	Walt Disney Pictures	987.88
+25	Revolution OS	Richard Stallman, Linus Torvalds, Eric Raymond, Bruce Perens	J. T. S. Moore	Estados Unidos	2002-02-15	Documental	0	Wonderview Productions	150.00
+26	Los Simpson: La pelicula	Los Simpsons	David Silverman	Estados Unidos	2007-06-26	Animacion, Comedia, Aventura	527071022	20th Century Fox	351.25
+27	El diario de un chico en apuros	 Zachary Gordon	David Bowers	Estados Unidos	2012-08-03	Comedia	77112176	20th Century Fox	452.2
+28	Los dos Papas	Jonathan Pryce	Fernando Meirelles	Estados Unidos	2019-12-05	Biografia, Drama, Comedia	365000	Netflix	654.2
+29	Everest	Jake Gyllenhaal	Baltasar Kormakur	Estados Unidos	2015-09-24	Drama, Aventura	202581700	Universal Pictures	963.3
+30	Creed	Michael B. Jordan	Ryan Coogler	Estados Unidos	2016-02-04	Deporte, Drama	173567581	SEQUIN SOCIALISTA & CO.	456.65
